@@ -5,3 +5,4 @@ ipykernel
 sklearn
 gensim
 mecab-python3
+wget==3.2
